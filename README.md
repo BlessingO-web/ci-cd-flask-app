@@ -21,9 +21,22 @@ Whenever code is pushed to the repository, GitHub Actions automatically builds t
 
 The diagram below shows how the CI/CD workflow operates from code push to Docker image build.
 
-![CI/CD Architecture](docs/architecture.png)
+## 📸 CI Pipeline Status
+
+![CI Pipeline Success](docs/ci-success.png)
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
+![Project Structure](docs/project-structure.png)
+
+---
+
+## 🏗️ Architecture Diagram
+
+![Architecture Diagram](docs/architecture.png)
+## Author
+
+Blessing Ogbonna  
+Cloud & DevOps Engineer
